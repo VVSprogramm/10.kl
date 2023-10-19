@@ -26,14 +26,3 @@ while cipars>0: #nosacījums
 
 #Ārpus cikla
 print("Cikls ir beidzies")
-
-
-#boolean - datu tips
-#karodziņiem
-
-# paroleIrPareiza = False #zaļš vai sarkans
-
-# while paroleIrPareiza:
-#   print("Ievadi paroli: ")
-#   print("Parole: 1234")
-#   paroleIrPareiza = False
