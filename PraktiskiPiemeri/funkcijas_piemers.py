@@ -37,7 +37,6 @@ def izmaksas_receptei(recepte,cenas):  #Iekavās atrodas argumenti
 izmaksas_receptei(recepte1,cenas1)    #Izsaucot funkciju, iekavās tiek likti mainīgie, kuri ir definēti programmā
 
 
-def izmaksas_kopa():
-    #funkcija aprēķina ievārījuma sastāvdaļu izmakasas, atkarībā no dotā ābolu daudzuma
+# def izmaksas_kopa():
+#     #funkcija aprēķina ievārījuma sastāvdaļu izmakasas, atkarībā no dotā ābolu daudzuma
 
-    
