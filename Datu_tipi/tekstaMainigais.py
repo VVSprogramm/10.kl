@@ -65,3 +65,5 @@ print(vards.lower())
 #.split() - sadala tekstu, pēc noklusējuma dala tur, kur ir atstarpes
 print(uzvards.split())
 print(uzvards.split("-"))
+
+print("Cecīlija\n"+uzvards)
